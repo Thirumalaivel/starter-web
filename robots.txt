@@ -3,4 +3,4 @@
 User-agent: *
 
 
-This is the second modiffication to tst commit by thiru	
+This robot file is developed by thiru	
