@@ -1,5 +1,5 @@
 # robotstxt.org/
-
+This file contains informtion about the robot
 User-agent: *
 
 
