@@ -3,4 +3,4 @@
 User-agent: *
 
 
-This robot file is developed by thirua and bharathi	
+This robot file is developed by thirumalaibharathi	
